@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-## 📝 Blog
-- [Dev.to (English)](https://dev.to/syamamt)
-- [Hatena Blog (Japanese)](https://syamamt.hateblo.jp/)
+## 📝 Links
+- [Blog (English)](https://dev.to/syamamt)
+- [Blog (Japanese)](https://syamamt.hateblo.jp/)
